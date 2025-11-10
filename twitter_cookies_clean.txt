@@ -1,0 +1,10 @@
+.twitter.com	TRUE	/	TRUE	1796567569	guest_id	v1%3A176200756411480491
+.twitter.com	FALSE	/	FALSE	1777559598	g_state	{"i_l":0,"i_ll":1762007598908,"i_b":"ha4TWqDgNnfhbGDYbfLN/Okjey9R9GUReWfqJOkAiSs"}
+.twitter.com	TRUE	/	FALSE	1796567625	__cuid	3e74047396aa4cc3a01bfeb110f9c9a0
+.twitter.com	TRUE	/	TRUE	1796567624	ct0	ff6837da21edafbcec27fc7fe7c522873edd1f3585d6abd55adc4abf6748d501cd6087b9ecc673b19b055dc3cd8103f1dddbcb932ee353c1493dd40e8d93aa9e01d38aa96d614b909d56fde7f04ae1f1
+.twitter.com	TRUE	/	TRUE	1762016570	gt	1984629684752257511
+.twitter.com	TRUE	/	TRUE	1796567624	guest_id_ads	v1%3A176200756411480491
+.twitter.com	TRUE	/	TRUE	1796567624	guest_id_marketing	v1%3A176200756411480491
+.twitter.com	FALSE	/	FALSE	1762094040	lang	en
+.twitter.com	TRUE	/	TRUE	1796567593	personalization_id	"v1_j6+lKpKZhKMwUUQ9giRVqA=="
+.twitter.com	TRUE	/	TRUE	1793543625	twid	u%3D1680484556204560384
